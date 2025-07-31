@@ -11,7 +11,7 @@
 
 
 ###
-## 🚀 Kullandığım Teknolojiler
+## 🚀 Tech Stack
 
 <div align="center">
 
