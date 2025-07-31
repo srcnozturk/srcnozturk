@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sercan and I'm a Computer Engineer, from Turkey</h2>
+<h3 align="left">Sercan Öztürk, a Computer Engineer from Turkey, focused on delivering robust software solutions using industry best practices</h3>
 
 ###
 ![Profile views](https://komarev.com/ghpvc/?username=srcnozturk&color=blue)
