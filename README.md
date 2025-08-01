@@ -1,5 +1,5 @@
 <h3 align="left">Sercan Öztürk, a Computer Engineer from Turkey, focused on delivering robust software solutions using industry best practices</h3>
- 
+  
 ###
 ![Profile views](https://komarev.com/ghpvc/?username=srcnozturk&color=blue)
   
