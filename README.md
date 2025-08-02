@@ -1,12 +1,9 @@
 <h3 align="left">Sercan Öztürk, a Computer Engineer from Turkey, focused on delivering robust software solutions using industry best practices</h3>
     
 ###
-
- 
-
 <div align="center">
-![srcnoztrk's github stats](https://github-readme-stats.vercel.app/api?username=srcnozturk&show_icons=true&theme=highcontrast&show_icons=true&count_private=true)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=srcnozturk&show_icons=true&theme=highcontrast&show_icons=true&count_private=true"/>
+ </div>
 
 ###
   
