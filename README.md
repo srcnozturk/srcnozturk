@@ -1,4 +1,4 @@
-<h3 align="left">I'm a Computer Engineer from Turkey, focused on delivering robust software solutions using industry best practices</h3>
+<h3 align="left">I'm a Computer Engineer from Turkey, focus on delivering robust software solutions using industry best practices</h3>
     
 ###
 <div align="center">
