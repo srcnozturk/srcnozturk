@@ -2,10 +2,12 @@
     
 ###
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=srcnozturk&show_icons=true&count_private=false&theme=highcontrast"/>
+    <img src="https://streak-stats.demolab.com/?user=srcnozturk&theme=dark"/> &nbsp;&nbsp;
+    
  </div>
  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=srcnozturk&theme=dark"/> &nbsp;&nbsp;
+     <img src="https://github-readme-stats.vercel.app/api?username=srcnozturk&show_icons=true&count_private=false&theme=highcontrast"/>
+     
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcnozturk&layout=compact&theme=transparent&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=8"/>
          
  </div>
