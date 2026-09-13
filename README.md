@@ -2,7 +2,7 @@
     
 ###
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=srcnozturk&theme=dark"/> &nbsp;&nbsp;
+ <!--     <img src="https://streak-stats.demolab.com/?user=srcnozturk&theme=dark"/> -->  &nbsp;&nbsp;
     
  </div>
  <div align="center">
